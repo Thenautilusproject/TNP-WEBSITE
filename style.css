@@ -2513,6 +2513,15 @@ display: none;
   }
 }
 @media screen and (max-width:320px){
+  
+  
+.banner .parallax{
+  background: url('https://imgur.com/ZXBZBcW.png') no-repeat center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 800px;
+}
+
   .logo{
     height: 150px;
     width: 150px;
