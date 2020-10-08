@@ -981,9 +981,58 @@ font-size: 22px;
       }
       }
 
+
+/*----- Footer  -----------------------------------------------------------------------*/
 /*----- Footer  -----------------------------------------------------------------------*/
 
+.contact{
+  padding-top: 50px;
+  background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.6)),url('https://imgur.com/ff94UEs.png');
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+}
 
+.contact .row{
+  padding: 30px 0;
+  font-size: 22px;
+}
+
+.contact .col-md-4 .fa{
+  padding: 10px;
+  font-size: 40px;
+}
+
+.footer{
+  height:50px;
+  position: relative;
+  left: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 30px;
+  align-items: center;
+  margin-top: 50px;
+  color: #fff;
+  padding-top: 10px;
+}
+
+.contact h2{
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+  @media screen and (max-width:767px){
+
+    .footer{
+
+      left: 0px;
+      align-items: center;
+      margin-top: 50px;
+      color: #fff;
+      padding-top: 10px;
+
+      }
+      }
 
 
 
@@ -2328,17 +2377,6 @@ margin-top: 70px;
                   }
                         }
 
-/*-----footer -----------------------------------------------------------------------*/
-
-.banner2 {
-    overflow-x: hidden;
-  background: url('images/footer.jpg') no-repeat center;
-  background-size: cover;
-  height: 320px;
-    width: 100%;
-}
-
-
 
 
 
@@ -2662,32 +2700,7 @@ font-size: 18px;
       height: 250px!important;;
         }
 }
-/*----- aboutphonefooter  -----------------------------------------------------------------------*/
 
-@media screen and (max-width:414px){
-
-        .banner20 {
-          height: 205px !important;
-
-        }
-      }
-@media screen and (max-width:360px){
-
-  .banner20 {
-
-    height: 180px !important;
-
-  }
-}
-
-@media screen and (max-width:320px){
-
-  .banner20 !important{
-
-    height: 150px;
-
-  }
-}
 
 
 /*----- ourworkphone  -----------------------------------------------------------------------*/
