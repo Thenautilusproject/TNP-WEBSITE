@@ -2624,11 +2624,18 @@ left:90px;
 
 
 @media screen and (max-width:414px){
+ 
   .banner1 p {
     position: relative;
     font-size: 14px;
     left: 30px!important;;
     width: 85%!important;;
+}
+  
+.banner1 .parallax{
+  background: url('https://imgur.com/AxN9qat.png') no-repeat center;
+  background-size: cover;
+  height: 800px;
 }
   .banner1 .nemotext a{
 left: 35px;
