@@ -74,7 +74,8 @@
   left: 50px;
   top: -10px;
   z-index: 10;
-    background-attachment: fixed;
+
+  
 
 }
 
@@ -88,7 +89,7 @@ color: #fff;
 .bannerimage{
   background: no-repeat center;
   background-size: cover;
-  background-attachment: fixed;
+
   height: 800px;
   width: 100%;
 }
@@ -105,7 +106,6 @@ top: 20px;
 .banner .parallax{
   background: url('https://imgur.com/VR588mV.png') no-repeat center;
   background-size: cover;
-  background-attachment: fixed;
   height: 800px;
 }
 
@@ -113,7 +113,8 @@ top: 20px;
 .parallax{
   background: url('images/tnpaboutbanner10.png') no-repeat center;
   background-size: cover;
-  background-attachment: fixed;
+  background-attachment: 
+;
   height: 800px;
 }---*/
 
@@ -565,7 +566,7 @@ top: 20px;
 .banner1 .parallax{
   background: url('https://imgur.com/JNYfnlg.png') no-repeat center;
   background-size: cover;
-  background-attachment: fixed;
+
   height: 800px;
 }
 
@@ -723,7 +724,6 @@ left: 100px;
       background-color:  !important;
       background-size: cover;
       background-position: center;
-      background-attachment: fixed;
       padding-top: 30px;
       position:relative;
       top: -10px;
@@ -1012,7 +1012,7 @@ font-size: 22px;
 .banner3 .parallax{
   background: url('https://imgur.com/bKjuTVR.png') no-repeat center;
   background-size: cover;
-  background-attachment: fixed;
+
   height: 460px;
 }
 
@@ -1644,7 +1644,6 @@ font-size: 11px;
 .banner5 .parallax{
   background: url('https://imgur.com/axLa1uU.png') no-repeat center;
   background-size: cover;
-  background-attachment: fixed;
   height: 460px;
 }
 
@@ -1781,7 +1780,7 @@ margin-top: 180px;
 .banner6 .parallax{
   background: url('https://imgur.com/LvbBHcS.png') no-repeat center;
   background-size: cover;
-  background-attachment: fixed;
+
   height: 800px;
 }
 
@@ -2102,7 +2101,7 @@ width: 100px;
 .banner7 .parallax{
   background: url('https://imgur.com/Uk4gIze.png') no-repeat center;
   background-size: cover;
-  background-attachment: fixed;
+ 
   height: 460px;
 }
 
@@ -2361,14 +2360,14 @@ margin-top: 70px;
   background-color: blue !important;
   background-size: cover;
   background-position: center;
-  background-attachment: fixed;
+
   position:relative;
   padding-top: 20px;
   padding-bottom: 40px;
   background:  url('https://imgur.com/bKjuTVR.png');
   background-position: center;
   background-size: cover;
-  background-attachment: fixed;
+
   color: white;
   height: 260px;
 }
@@ -2459,7 +2458,6 @@ font-size: 18px;
 .banner .parallax{
   background: url('https://imgur.com/bKjuTVR.png') no-repeat center;
   background-size: cover;
-  background-attachment: fixed;
   height: 800px;
 }
 
@@ -2518,7 +2516,7 @@ display: none;
 .banner .parallax{
   background: url('https://imgur.com/ZXBZBcW.png') no-repeat center;
   background-size: cover;
-  background-attachment: fixed;
+  
   height: 800px;
 }
 
