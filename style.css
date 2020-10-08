@@ -2544,8 +2544,10 @@ display: none;
   left:110px;
   }
 
-  .banner h4{
-    left:90px;
+   .banner h4{
+    left:70px;
+    font-size: 19px;
+    width: 150%;
   }
 }
 @media screen and (max-width:320px){
