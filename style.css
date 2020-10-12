@@ -2344,8 +2344,7 @@ margin-top: 70px;
     }
 
 
-
-    /*-----News Responsive -----------------------------------------------------------------------*/
+  /*-----News Responsive -----------------------------------------------------------------------*/
 
       @media screen and (max-width:1200px){
 
@@ -2366,7 +2365,18 @@ margin-top: 70px;
               .news .newsimage{
                   height: 120px;
             }
+            .news h4{
+              font-size: 20px;
+            }
                   }
+
+    @media screen and (max-width:994px){
+
+      .news h4{
+        font-size: 16px;
+      }
+    }
+
 
       @media screen and (max-width:770px){
 
@@ -2376,7 +2386,34 @@ margin-top: 70px;
                     .news .newsimage{
                         height: 320px;
                   }
+                  .news h4{
+                    font-size: 35px;
+                  }
                         }
+
+                        @media screen and (max-width:768px){
+
+                      .news ul li{
+                            font-size: 11px;
+                      }
+                      .news h4{
+                        font-size: 15px;
+
+                      }
+                      .news .newsimage{
+                          height: 150px;
+                            }
+                            }
+
+         @media screen and (max-width:767px){
+
+                    .news ul li{
+                   font-size: 22px;
+                                }
+                 .news .newsimage{
+                   height: 320px;
+                                }
+                                }
 
 
 
