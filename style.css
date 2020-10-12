@@ -2448,6 +2448,7 @@ margin-top: 70px;
 }
 
 .article h1{
+    overflow-x: hidden;
   font-size: 35px;
   margin-top: 100px;
 }
